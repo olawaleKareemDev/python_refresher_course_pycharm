@@ -534,21 +534,41 @@
 
 
 
-class Dog:
-    "This is a function dipicting the classes of Dog"
-    species = 'canis familiaris'
-
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-    def description(self):
-        return f"{self.name} is {self.age} years old"
-
-    def speak(self, sound):
-        return f"{self.name} says {sound}"
-
-
+# class Dog:
+#     "This is a function dipicting the classes of Dog"
+#     species = 'canis familiaris'
+#
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#
+#     def description(self):
+#         return f"{self.name} is {self.age} years old"
+#
+#     def speak(self, sound):
+#         return f"{self.name} says {sound}"
+#
+#
 # miles = Dog("Miles", 4)
 # print(miles.description())
-print(Dog("man", 32).__doc__)
+
+
+# class HumanBeing:
+#     "This is a person class"
+#     age = 10
+#
+#     def greet(name):
+#         print(f"hello {name}")
+#
+# print(HumanBeing.age )
+# HumanBeing.greet("mark")
+#
+# mark = HumanBeing()
+# print(mark.age)
+
+class ComplexNumber:
+    def __init__(self, r=0, i=0):
+        self.real = r
+        self.imag = i
+    def get_data(self):
+        print(f'{self.real} + {self.img}')

@@ -1,0 +1,22 @@
+ pip  or preffered installer program:
+ This is a package-management system written in python used to install and manage python software packages.
+ python package index:
+ Public repo of open source licensed packages made available for use by other python users.
+
+
+1. checking the Pip installed on your machine
+   python -m pip --version
+2. add to path on system variable
+3. pip --version // shows the pip version on your machine.
+4.  python -m pip list --outdated //list outdated packages
+5. python -m pip install --upgrade SomePackage // upgrade a package
+6. python -m pip uninstall SomePackage // uninstall a package
+7. python -m pip list //listing installed packages on python directory
+
+
+ //  nodemon for python is
+ 1. npm init --yes // to initialise a node package manager in the python directory
+ 2. npm config get prefix // display the path of the globally installed nodemon.
+ 3. Add the path to advanced system settings > environmental variables > user variables.
+
+

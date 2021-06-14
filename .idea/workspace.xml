@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72fb992d-35f0-4a3e-941f-4664d9700fc7" name="Default Changelist" comment="" />
+    <list default="true" id="72fb992d-35f0-4a3e-941f-4664d9700fc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_refresher.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_refresher.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tx5rxpaO51EfBRzVzaOdZK7ln6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RunManager">
     <configuration name="python_refresher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -69,26 +78,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1623701019989">
+    <state width="1345" height="320" key="GridCell.Tab.0.bottom" timestamp="1623703214310">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1623701019989" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1623701019989">
+    <state width="1345" height="320" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1623703214310" />
+    <state width="1345" height="320" key="GridCell.Tab.0.center" timestamp="1623703214310">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1623701019989" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1623701019989">
+    <state width="1345" height="320" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1623703214310" />
+    <state width="1345" height="320" key="GridCell.Tab.0.left" timestamp="1623703214310">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1623701019989" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1623701019989">
+    <state width="1345" height="320" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1623703214310" />
+    <state width="1345" height="320" key="GridCell.Tab.0.right" timestamp="1623703214310">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1623701019989" />
-    <state x="186" y="29" key="SettingsEditor" timestamp="1623700573497">
+    <state width="1345" height="320" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1623703214310" />
+    <state x="178" y="60" width="916" height="708" key="SettingsEditor" timestamp="1623701671651">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1623700573497" />
+    <state x="178" y="60" width="916" height="708" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1623701671651" />
     <state x="346" y="89" key="search.everywhere.popup" timestamp="1623698279573">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
