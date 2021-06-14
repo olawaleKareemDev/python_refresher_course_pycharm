@@ -572,3 +572,4 @@ class ComplexNumber:
         self.imag = i
     def get_data(self):
         print(f'{self.real} + {self.img}')
+number_one = ComplexNumber(2,3)
